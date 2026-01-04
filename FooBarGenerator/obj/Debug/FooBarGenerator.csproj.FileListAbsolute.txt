@@ -1,0 +1,7 @@
+C:\Users\khairul.bahri\Documents\HomeWork\FooBarGenerator\bin\Debug\FooBarGenerator.exe.config
+C:\Users\khairul.bahri\Documents\HomeWork\FooBarGenerator\bin\Debug\FooBarGenerator.exe
+C:\Users\khairul.bahri\Documents\HomeWork\FooBarGenerator\bin\Debug\FooBarGenerator.pdb
+C:\Users\khairul.bahri\Documents\HomeWork\FooBarGenerator\obj\Debug\FooBarGenerator.csproj.CoreCompileInputs.cache
+C:\Users\khairul.bahri\Documents\HomeWork\FooBarGenerator\obj\Debug\FooBarGenerator.exe
+C:\Users\khairul.bahri\Documents\HomeWork\FooBarGenerator\obj\Debug\FooBarGenerator.pdb
+C:\Users\khairul.bahri\Documents\HomeWork\FooBarGenerator\obj\Debug\FooBarGenerator.csproj.AssemblyReference.cache
